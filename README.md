@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @edwinmartin28
 - 👀 I’m interested in Programing and Ethical Hacking
-- 🌱 I’m currently learning Computer Science And AI Enginnering
+- 🌱 I’m currently learning Computer Science And AI Enginnering 2nd Year
 - 📫 Reach me at edwinkottat123456789@gmail.com
 
 <!---
